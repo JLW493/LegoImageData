@@ -7,11 +7,7 @@ importlib-metadata; python_version<"3.8"
 pyfiglet
 sphinx-rtd-theme
 matplotlib
-matplotlib.pyplot
-os
-PIL
 kagglehub
-random
 pandas
 panel
 numpy
